@@ -1,7 +1,8 @@
 # WCM6
 
 <br/>
-Blog:<a href="https://s40523122.github.io/2017springwcm_g6/blog">https://s40523122.github.io/2017springwcm_g6/blog</a><br/>
+Blog:<a href="https://s40523122.github.io/2017springwcm_g6/blog">https://s40523122.github.io/2017springwcm_g6/blog</a> <br/>
+小組倉儲:<a href="https://mde2a2.kmol.info/wcmg6/index">https://mde2a2.kmol.info/wcmg6/index </a> <br/>
 成員倉儲:
 <a href="https://github.com/s40523101">40523101 </a>
 <a href="https://github.com/s40523102">40523102 </a>
