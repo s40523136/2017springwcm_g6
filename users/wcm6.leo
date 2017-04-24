@@ -70,7 +70,9 @@
 <v t="amd.20151215170350.1"><vh>以下為 content 目錄中的 md 檔案</vh></v>
 <v t="amd.20151216001126.1"><vh>md 檔案範例</vh></v>
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
-<v t="amd.20160106093454.1"><vh>yen 所寫的網誌文章</vh></v>
+<v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
+<v t="leo.20170424231856.1"><vh>@edit 20160921.md</vh></v>
+</v>
 </v>
 <v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
 <v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
@@ -86,7 +88,7 @@
 <v t="leo.20170421014941.4"><vh>new:封面投影片內容</vh></v>
 </v>
 </v>
-<v t="leo.20170421115328.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170421115328.2"><vh>Recovered Nodes</vh>
 <v t="leo.20170421115328.3"><vh>Recovered node "head" from @clean index.html</vh>
 <v t="leo.20170421115328.4"><vh>old:head</vh></v>
 <v t="leo.20170421115328.5"><vh>new:head</vh></v>
