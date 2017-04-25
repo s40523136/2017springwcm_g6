@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>WCM6的小組作業網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-04-07T12:00:00+08:00</updated><entry><title>如何設定ipv6網路</title><link href="./ru-he-she-ding-ipv6wang-lu.html" rel="alternate"></link><published>2016-04-07T12:00:00+08:00</published><updated>2016-04-07T12:00:00+08:00</updated><author><name>黃胤瑋</name></author><id>tag:,2016-04-07:./ru-he-she-ding-ipv6wang-lu.html</id><summary type="html">&lt;p&gt;連線到IPV6 的網路設定教學&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>WCM6的小組作業網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-04-21T12:00:00+08:00</updated><entry><title>VirtualBox安裝並且安裝Ubuntu於VirtualBox</title><link href="./virtualboxan-zhuang-bing-qie-an-zhuang-ubuntuyu-virtualbox.html" rel="alternate"></link><published>2016-04-21T12:00:00+08:00</published><updated>2016-04-21T12:00:00+08:00</updated><author><name>黃胤瑋</name></author><id>tag:,2016-04-21:./virtualboxan-zhuang-bing-qie-an-zhuang-ubuntuyu-virtualbox.html</id><summary type="html">&lt;p&gt;&lt;h2&gt;VirtualBox安裝並且安裝Ubuntu於VirtualBox&lt;/h2&gt;
+ &lt;iframe src="https://player.vimeo.com/video/214116206" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/214116206"&gt;VirtualBox安裝並且安裝Ubuntu於VirtualBox&lt;/a&gt; from &lt;a href="https://vimeo.com/user58912621"&gt;黃胤瑋&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;/section&gt;&lt;/p&gt;</summary><category term="網路設定"></category></entry><entry><title>如何設定ipv6網路</title><link href="./ru-he-she-ding-ipv6wang-lu.html" rel="alternate"></link><published>2016-04-07T12:00:00+08:00</published><updated>2016-04-07T12:00:00+08:00</updated><author><name>黃胤瑋</name></author><id>tag:,2016-04-07:./ru-he-she-ding-ipv6wang-lu.html</id><summary type="html">&lt;p&gt;連線到IPV6 的網路設定教學
+&lt;/p&gt;
+&lt;p&gt;連線到IPV6 的網路設定教學&lt;/p&gt;
 &lt;p&gt;首先進入網路和共用中心&lt;/p&gt;
 &lt;p&gt;選擇乙太網路內容&lt;/p&gt;
 &lt;p&gt;把IPV4打勾按掉 選擇IPV6 然後打勾IPV6 點選內容&lt;/p&gt;
@@ -27,4 +32,10 @@
 白綠、綠、白橙、藍、白藍、橙、白棕、棕&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;完成以上步驟後就能完成網路線製作&lt;/p&gt;</summary><category term="網路設定"></category></entry></feed>
+&lt;p&gt;完成以上步驟後就能完成網路線製作&lt;/p&gt;
+
+
+&lt;p&gt;&lt;h2&gt;網路線製作影片&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/214638661" width="640" height="1138" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/214638661"&gt;網路線製作教學&lt;/a&gt; from &lt;a href="https://vimeo.com/user58912621"&gt;黃胤瑋&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;/section&gt;&lt;/p&gt;</summary><category term="網路設定"></category></entry></feed>
