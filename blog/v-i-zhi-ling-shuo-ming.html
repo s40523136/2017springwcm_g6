@@ -2,7 +2,7 @@
 <html lang="en"
 >
 <head>
-    <title>如何設定ipv6網路 - WCM6的小組作業網誌</title>
+    <title>v i 指令說明 - WCM6的小組作業網誌</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -166,18 +166,18 @@ init_mathjax = function() {
 init_mathjax();
 </script>
 
-<link rel="canonical" href="./ru-he-she-ding-ipv6wang-lu.html">
+<link rel="canonical" href="./v-i-zhi-ling-shuo-ming.html">
 
         <meta name="author" content="黃胤瑋" />
         <meta name="keywords" content="網路設定" />
-        <meta name="description" content="連線到IPV6 的網路設定教學" />
+        <meta name="description" content="vi 提供兩種操作模式：輸入模式(insert mode)和指令模式(command mode) 。當使用者進入 vi 後，即處在指令模式下，此刻鍵入之任何字元皆被視為 指令。在此模式下可進行刪除、修改等動作。若要輸入資料，則需進入輸入 模式。" />
 
         <meta property="og:site_name" content="WCM6的小組作業網誌" />
         <meta property="og:type" content="article"/>
-        <meta property="og:title" content="如何設定ipv6網路"/>
-        <meta property="og:url" content="./ru-he-she-ding-ipv6wang-lu.html"/>
-        <meta property="og:description" content="連線到IPV6 的網路設定教學"/>
-        <meta property="article:published_time" content="2016-04-07" />
+        <meta property="og:title" content="v i 指令說明"/>
+        <meta property="og:url" content="./v-i-zhi-ling-shuo-ming.html"/>
+        <meta property="og:description" content="vi 提供兩種操作模式：輸入模式(insert mode)和指令模式(command mode) 。當使用者進入 vi 後，即處在指令模式下，此刻鍵入之任何字元皆被視為 指令。在此模式下可進行刪除、修改等動作。若要輸入資料，則需進入輸入 模式。"/>
+        <meta property="article:published_time" content="2016-04-21" />
             <meta property="article:section" content="教學影片" />
             <meta property="article:tag" content="網路設定" />
             <meta property="article:author" content="黃胤瑋" />
@@ -284,10 +284,10 @@ WCM6的小組作業網誌            </a>
         <article>
             <header class="page-header">
                 <h1>
-                    <a href="./ru-he-she-ding-ipv6wang-lu.html"
+                    <a href="./v-i-zhi-ling-shuo-ming.html"
                        rel="bookmark"
-                       title="Permalink to 如何設定ipv6網路">
-                        如何設定ipv6網路
+                       title="Permalink to v i 指令說明">
+                        v i 指令說明
                     </a>
                 </h1>
             </header>
@@ -297,7 +297,7 @@ WCM6的小組作業網誌            </a>
 <footer class="post-info">
     <span class="label label-default">Date</span>
     <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2016-04-07T12:00:00+08:00"> 週四 07 四月 2016</time>
+        <i class="fa fa-calendar"></i><time datetime="2016-04-21T15:00:00+08:00"> 週四 21 四月 2016</time>
     </span>
             <span class="label label-default">By</span>
             <a href="./author/huang-yin-wei.html"><i class="fa fa-user"></i> 黃胤瑋</a>
@@ -309,20 +309,35 @@ WCM6的小組作業網誌            </a>
     
 </footer><!-- /.post-info -->                    </div>
                 </div>
-                <p>連線到IPV6 的網路設定教學
+                <p>vi 提供兩種操作模式：輸入模式(insert mode)和指令模式(command mode)
+。當使用者進入 vi 後，即處在指令模式下，此刻鍵入之任何字元皆被視為
+指令。在此模式下可進行刪除、修改等動作。若要輸入資料，則需進入輸入
+模式。
 </p>
-<p>連線到IPV6 的網路設定教學</p>
-<p>首先進入網路和共用中心</p>
-<p>選擇乙太網路內容</p>
-<p>把IPV4打勾按掉 選擇IPV6 然後打勾IPV6 點選內容</p>
-<p>把使用下列DNS伺服器網址打勾</p>
-<p>慣用DNS伺服器:輸入學校的IPV6 IP</p>
-<p>其他DNS伺服器:中華電信的IPV6 IP</p>
-<p>設定完後 進入網際網路的設定</p>
-<p>點開 Proxy 設定</p>
-<p>點選LAN設定</p>
-<p>把Proxy伺服器打勾網址用系館的IPV6 連接阜打3128</p>
-<p>就能完成IPV6的連線</p>
+<p>a                由游標之後加入資料。
+A               由該行之末加入資料。
+i                由游標之前加入資料。
+I                由該行之首加入資料
+ o              新增一行於該行之下供輸入資料之用。
+O              新增一行於該行之上供輸入資料之用。
+ h              向左移一個字元。
+ j               向上移一個字元。
+ k               向下移一個字元。
+ l               向右移一個字元。
+0               移至該行之首
+$               移至該行之末。
+^               移至該行的第一個字元處。
+H              移至視窗的第一列。
+M              移至視窗的中間那列。
+L               移至視窗的最後一列。
+G               移至該檔案的最後一列。
+x                刪除游標所在該字元。X       刪除游標所在之前一字元。
+dd              刪除游標所在該行。
+ r               用接於此指令之後的字元取代(replace)游標所在字元。
+ R              進入取代狀態，直到《ESC》為止。
+ s               刪除游標所在之字元
+S               刪除游標所在之該行資料</p>
+<p>:wq            完成編輯並儲存</p>
             </div>
             <!-- /.entry-content -->
         </article>
